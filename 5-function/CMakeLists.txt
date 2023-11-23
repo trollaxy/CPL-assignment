@@ -1,0 +1,7 @@
+add_executable(A A.c)
+add_executable(B B.c)
+add_executable(C C.c)
+add_executable(D D.c)
+add_executable(E E.c)
+add_executable(F F.c)
+add_executable(G G.c)

@@ -1,0 +1,6 @@
+add_executable(a7 a7.c)
+add_executable(a8 a8.c)
+add_executable(a9 a9.c)
+add_executable(a10 a10.c)
+add_executable(a11 a11.c)
+add_executable(a12 a12.c)
