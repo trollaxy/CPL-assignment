@@ -1,8 +1,0 @@
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a7.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a8.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a9.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a10.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a11.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/a12.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/NJU/freshman1/CPL/assignment/2-if-for-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

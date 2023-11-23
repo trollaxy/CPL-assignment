@@ -1,34 +1,10 @@
 
 >
 CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
-6
-main.c,4\0\406e031b8824ea26ae0bf4d7579a1d89e3fb5906
-?
-1-types-io/a2.c,7\f\7f51d4c60b357f1555f0ef83c28b0f28713b873e
-D
-2-if-for-array/a11.c,4\0\40e348d09e08f13127b7bd3f4562f06fd4fc16b8
-D
-2-if-for-array/a12.c,9\7\975499460d6aa56750e65b8a00a1ff5d75d0be7a
-?
-1-types-io/a6.c,b\b\bbcac3ed3d959e6209e08fd8f31a8240a14087d4
-?
-1-types-io/a1.c,4\f\4f2e28bd15f9d9eb6d4475632263b53da339fbcd
 I
 1-types-io/CMakeLists.txt,a\8\a8a5d8aab14026cee80d2b242025d1723ce6056b
-?
-1-types-io/a4.c,1\f\1fe8353d871b70fc0f19b5f4d9bfec71442fbcdf
 M
 2-if-for-array/CMakeLists.txt,3\8\385ab5da5117197daad9b3527d6572ceec9b2023
-C
-2-if-for-array/a7.c,a\4\a40229cf68fdfdca768f334cd1beb80c56eaf4be
-C
-2-if-for-array/a8.c,8\6\86c24683c89cc5396ecf16a865641fbe69ff48c4
-C
-2-if-for-array/a9.c,4\7\478d9319208fff57b98dc5d8a2a330c6284c6598
-?
-1-types-io/a5.c,9\4\94ccfa09d4e5ddb7ad0ea165aa975d9f061ba922
-D
-2-if-for-array/a10.c,4\7\477ce354523e15152358a6585d7f09a98d47073d
 ?
 3-for-while/A.c,e\6\e6ce240f6355e476c708604e7df207562bd42b96
 ?
@@ -51,8 +27,6 @@ F
 4-loops/C.c,b\9\b9490854cc202f1663dbb4e73e3405bf5fd46212
 ;
 4-loops/D.c,d\f\dfbde6c8365afe99e06989aa278ab97abc9211ea
-3
-E.c,8\b\8ba2ea028d2656018e8c15082266b69c5872d753
 I
 5-function/CMakeLists.txt,d\8\d853c6aea66694684983d12399ccf4ba96b4c8c6
 >
@@ -91,3 +65,5 @@ K
 7-data-types/C.c,c\2\c2b6720d7e5907e315a8f36e451299c527b981a2
 @
 7-data-types/D.c,d\3\d3a5fb4f2669f027376708ac439be301c8724974
+B
+2-if-for-array/C.c,7\5\75d5bc12017551e6fb1e2d0c15b8cee31bd1b2fe
