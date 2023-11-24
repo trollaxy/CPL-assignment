@@ -67,3 +67,5 @@ K
 7-data-types/D.c,d\3\d3a5fb4f2669f027376708ac439be301c8724974
 B
 2-if-for-array/C.c,7\5\75d5bc12017551e6fb1e2d0c15b8cee31bd1b2fe
+D
+7-data-types/C-gpt.c,9\2\92dfdc9c55e0cfd835de6a4491886f8b32ea0f9f
