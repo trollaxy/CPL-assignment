@@ -69,3 +69,11 @@ B
 2-if-for-array/C.c,7\5\75d5bc12017551e6fb1e2d0c15b8cee31bd1b2fe
 D
 7-data-types/C-gpt.c,9\2\92dfdc9c55e0cfd835de6a4491886f8b32ea0f9f
+H
+8-pointer/CMakeLists.txt,9\8\988b6651b4954273d8591a771d13e7bdee8266a4
+=
+8-pointer/B.c,6\a\6ab9f18fddda641e424857cd057580307b58d85d
+=
+8-pointer/C.c,9\9\999c495c32e0ce007747533a1ccef6e8557f09a9
+=
+8-pointer/A.c,a\7\a75b89b9ad119737f85ab61f4db71976fd470e6f
