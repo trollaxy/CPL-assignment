@@ -1,10 +1,4 @@
 D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/JetBrains/apps/CLion/ch-0/232.9559.58/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\NJU\freshman1\CPL\assignment -B E:\NJU\freshman1\CPL\assignment\cmake-build-debug
--- The C compiler identification is GNU 13.1.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: D:/JetBrains/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
 CMake Error at 2-if-for-array/CMakeLists.txt:1 (add_executable):
   add_executable cannot create target "A" because another target with the
   same name already exists.  The existing target is an executable created in
@@ -266,6 +260,34 @@ CMake Error at 8-pointer/CMakeLists.txt:2 (add_executable):
 
 CMake Error at 8-pointer/CMakeLists.txt:3 (add_executable):
   add_executable cannot create target "C" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 9-pointers-c-strings/CMakeLists.txt:1 (add_executable):
+  add_executable cannot create target "A" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 9-pointers-c-strings/CMakeLists.txt:2 (add_executable):
+  add_executable cannot create target "B" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 9-pointers-c-strings/CMakeLists.txt:3 (add_executable):
+  add_executable cannot create target "C" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 9-pointers-c-strings/CMakeLists.txt:4 (add_executable):
+  add_executable cannot create target "D" because another target with the
   same name already exists.  The existing target is an executable created in
   source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
   documentation for policy CMP0002 for more details.

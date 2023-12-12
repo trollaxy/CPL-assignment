@@ -77,3 +77,13 @@ H
 8-pointer/C.c,9\9\999c495c32e0ce007747533a1ccef6e8557f09a9
 =
 8-pointer/A.c,a\7\a75b89b9ad119737f85ab61f4db71976fd470e6f
+S
+#9-pointers-c-strings/CMakeLists.txt,6\d\6d3ce62ac991cdeeb0a84da41125ef4b60463a3c
+H
+9-pointers-c-strings/A.c,8\9\8955064d4c2f90c1935c48965451c84a9eee45cf
+H
+9-pointers-c-strings/B.c,5\b\5bc99006849c5e808903a76b0877011fba8fa314
+H
+9-pointers-c-strings/C.c,4\a\4ac2a3e99ef4a723147190e07833a0ae1c7c5ff2
+H
+9-pointers-c-strings/D.c,c\f\cf399abedecdddc95b9580b2d84deac5af09846e
