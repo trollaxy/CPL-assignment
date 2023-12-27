@@ -293,4 +293,32 @@ CMake Error at 9-pointers-c-strings/CMakeLists.txt:4 (add_executable):
   documentation for policy CMP0002 for more details.
 
 
+CMake Error at 10-double-pointers-struct/CMakeLists.txt:1 (add_executable):
+  add_executable cannot create target "A" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 10-double-pointers-struct/CMakeLists.txt:2 (add_executable):
+  add_executable cannot create target "B" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 10-double-pointers-struct/CMakeLists.txt:3 (add_executable):
+  add_executable cannot create target "C" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
+CMake Error at 10-double-pointers-struct/CMakeLists.txt:4 (add_executable):
+  add_executable cannot create target "D" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "E:/NJU/freshman1/CPL/assignment/1-types-io".  See
+  documentation for policy CMP0002 for more details.
+
+
 -- Configuring incomplete, errors occurred!

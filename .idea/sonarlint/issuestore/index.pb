@@ -87,3 +87,13 @@ H
 9-pointers-c-strings/C.c,4\a\4ac2a3e99ef4a723147190e07833a0ae1c7c5ff2
 H
 9-pointers-c-strings/D.c,c\f\cf399abedecdddc95b9580b2d84deac5af09846e
+X
+(10-double-pointers-struct/CMakeLists.txt,3\5\3533b87e56dd5c1e7bfe20e8d5ccf1b0bf5e03b1
+M
+10-double-pointers-struct/A.c,7\9\7987f3953622da4fbcd455d076b33e6da741114a
+M
+10-double-pointers-struct/B.c,3\3\3324eedcce1b4bf80274622273de7d5b92016f64
+M
+10-double-pointers-struct/C.c,b\6\b67cc57371895b9cdda5feb71162a2ff75f4c600
+M
+10-double-pointers-struct/D.c,f\5\f5d6a7f2e7c455777d84b9f7fbc2e3a71fd61767
